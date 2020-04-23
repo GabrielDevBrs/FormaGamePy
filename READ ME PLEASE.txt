@@ -1,0 +1,3 @@
+Sistema cria do em python de jogo da forca por GABRIEL DOS SANTOS
+exclusivamente criado para estudo em python e tambem fiz o mesmo sistema em java, porem ainda há alguns problemas
+creditos do codigo e contato no proprio codigo
